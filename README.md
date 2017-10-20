@@ -18,7 +18,7 @@ When installing under Windows, please make sure you check the following option:
 Check if you have Java already installed:
 
 ```sh
-> java -version
+java -version
 ```
 
 If your OS either can not recognize this command or your current Java version is not 8, install JDK8.
